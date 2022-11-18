@@ -2,8 +2,11 @@
 *Machine Learning Engineer Nanodegree - Udacity Program*
 
 ## Project Overview
-This project deploys a plagiarism detector that take a text file and perform binary classification based-on Linear SVC provided by SKLearn. To decide if the text is plagiarized, containment feature and longest common subsequence are implemented. 
+This project deploys a plagiarism detector that take a text file and perform binary classification based-on Linear SVC provided by SKLearn. To decide if the text is plagiarized, containment feature and longest common subsequence are implemented. Accuracy achieved: **96%**
 
+## Technologies
+- AWS S3
+- AWS Sage Maker
 ## Installation
 ```
 git clone https://github.com/xzZero/Project_Plagiarism_Detection.git
